@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<realestate name="Inmboliaria Roser" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<realestate name="Inmobiliaria Roser" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:noNamespaceSchemaLocation="realestate.xsd">
     <estate id="45123">
         <type>Premise</type>
@@ -49,4 +49,3 @@ xsi:noNamespaceSchemaLocation="realestate.xsd">
         <price>175100.00</price>
     </estate>
 </realestate>
-
