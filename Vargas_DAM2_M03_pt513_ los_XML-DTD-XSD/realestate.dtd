@@ -1,0 +1,23 @@
+<!ELEMENT realestates (estate*)>
+<!ATTLIST realestates name (#PCDATA)>
+<!ATTLIST realestates xsi:noNamespaceSchemaLocation CDATA #IMPLIED>
+<!ATTLIST realestates xmlns:xsi CDATA #IMPLIED>
+
+<!ELEMENT estate (type, surface, address, price)>
+<!ATTLIST estate id (#PCDATA)>
+
+<!ELEMENT type (House|Premise)>
+<!ELEMENT surface (#PCDATA)>
+
+<!ELEMENT address (street, number, floor, door)>
+<!ELEMENT street (#PCDATA)>)>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT floor (#PCDATA)>
+<!ELEMENT door (#PCDATA)>
+
+<!ELEMENT price (#PCDATA)>
+
+
+
+
+

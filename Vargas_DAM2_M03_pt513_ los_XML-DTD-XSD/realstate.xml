@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<realestate name="Inmboliaria Roser" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="realestate.xsd">
+    <estate id="45123">
+        <type>Premise</type>
+        <surface>215.15</surface>
+        <address>
+            <street>C/Roma</street>
+            <number>38</number>
+            <floor>5</floor>
+            <door>2</door>
+        </address>
+        <price>205300.50</price>
+    </estate>
+
+    <estate id="23041">
+        <type>House</type>
+        <surface>80</surface>
+        <address>
+            <street>C/Venecia</street>
+            <number>520</number>
+            <floor>2</floor>
+            <door>1</door>
+        </address>
+        <price>155300.50</price>
+    </estate>
+
+    <estate id="152863">
+        <type>Premise</type>
+        <surface>4512.12</surface>
+        <address>
+            <street>C/Florencia</street>
+            <number>3</number>
+            <floor>10</floor>
+            <door>8</door>
+        </address>
+        <price>1500300.50</price>
+    </estate>
+
+    <estate id="35980">
+        <type>House</type>
+        <surface>80.50</surface>
+        <address>
+            <street>C/Verona</street>
+            <number>125</number>
+            <floor>4</floor>
+            <door>4</door>
+        </address>
+        <price>175100.00</price>
+    </estate>
+</realestate>
+
